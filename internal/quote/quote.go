@@ -6,6 +6,7 @@ import (
 	quoteCoincap "github.com/achannarasappa/ticker/v4/internal/quote/coincap"
 	quoteCoingecko "github.com/achannarasappa/ticker/v4/internal/quote/coingecko"
 	quoteYahoo "github.com/achannarasappa/ticker/v4/internal/quote/yahoo"
+	quoteAlpaca "github.com/achannarasappa/ticker/v4/internal/quote/alpaca"
 	"github.com/go-resty/resty/v2"
 )
 
